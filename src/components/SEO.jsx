@@ -20,6 +20,7 @@ const SEO = ({ title, desc, banner, pathname, article }) => (
           pathPrefix,
           defaultDescription,
           defaultBanner,
+          twitter,
         },
       },
     }) => {

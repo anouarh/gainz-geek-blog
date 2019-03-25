@@ -14,4 +14,5 @@ module.exports = {
   author: 'Anouar Hilali', // Author for schemaORGJSONLD
   themeColor: '#3e7bf2',
   backgroundColor: '#d3e0ff',
+  twitter: '@justinformentin',
 };
