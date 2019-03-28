@@ -2,6 +2,7 @@ import React from 'react';
 import styled from '@emotion/styled';
 import PropTypes from 'prop-types';
 import prism from '../styles/prism';
+import theme from '../../config/theme';
 
 const Wrapper = styled.div`
   ${prism};
@@ -11,6 +12,7 @@ const Wrapper = styled.div`
     --baseline-multiplier: 0.179;
     --x-height-multiplier: 0.35;
     font-size: 1.15rem;
+    font-family: ${theme.fontFamily.body};
     line-height: 2;
     code {
       padding: 0.2rem 0.5rem;
