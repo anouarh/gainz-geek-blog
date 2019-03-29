@@ -10,7 +10,7 @@ const Blog = ({ data }) => {
   return (
     <Layout>
       <Helmet title={'Blog Page'} />
-      <Header title="Blog Page"></Header>
+      <Header title="The Gainz Geek Blog">We help you understand fitness better with articles, tools and infographics.</Header>
       {edges.map(({ node }) => (
         <BlogList
           key={node.id}
