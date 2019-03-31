@@ -45,6 +45,8 @@ const Wrapper = styled.div`
   h6 {
     display: inline-block;
     position: relative;
+    font-family: 'PT-Sans', sans-serif;
+    font-weight: bold;
     a {
       box-shadow: none;
       border-bottom: none;
