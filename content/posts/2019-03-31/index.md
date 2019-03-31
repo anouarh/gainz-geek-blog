@@ -11,19 +11,20 @@ published: true
 
 When I first wanted to start working out, the sheer volume of ressources available was very overwhelming. This is an attempt to regroup everything that a beginner should need in order to start.
 
-## First, some terminology
+## Before You Start
+<br/>
 
-**3x8** - this reads as *three sets of eight*. <br />
-**2x4, 1x4+** - this reads as, *two sets of 4, one of set of at least 4, but as many as possible*. <br />
+### First, some terminology
+
+**3x8** - this reads as *three sets of eight repetitions (or reps)*. <br />
+**2x4, 1x4+** - this reads as, *two sets of 4 reps, one of set of at least 4, but as many as possible*. <br />
 **SS** - this reads as superset (two exercices done back to back with no rest in between). <br />
 **BB** - *Barbell* <br />
 **DB** - *Dumbbell* <br />
 
-## What should a beginner do at the gym?
-
 ### Set a primary fitness goal
 
-Well, first things first, you have to determine **your primary fitness goal**. These can be grouped into 6 main categories (there is of course some overlap between them): <br />
+What should a beginner do at the gym? Well, first things first, you have to determine **your primary fitness goal**. These can be grouped into 6 main categories (there is of course some overlap between them): <br />
 - Muscle Gain
 - Fat Loss
 - Flexibility
@@ -32,6 +33,7 @@ Well, first things first, you have to determine **your primary fitness goal**. T
 - Bodyweight Training
 
 ### Determine your level of commitment
+<br/>
 
 #### Time
 
@@ -42,3 +44,15 @@ After deciding on a fitness goal, it is important to decide **how many days per 
 Of course, it all comes down to the budget. Wouldn't be nice to just hire a personal trainer? Yes, it would. However, that's not our goal here. You have to be able to use your money wisely. **Set an amount you are willing to spend** monthly on your gym subscription, home gym gear, bodyweight training equipment etc. And most importantly on food.
 
 ### Understand the importance of diet
+
+This brings us to the importance of regulating your food intake. You could lose weight by just **making your food intake lower than the amount you burn** (*obviously*). So great care needs to be invested in choosing a diet and knowing what you're eating.
+
+>### Answer these three questions: <br/> 
+> 1. **What is your primary fitness goal?**
+>    - Muscle Gain, Fat Loss, Flexibility, Cardio/Endurance, Posture Improvement or Bodyweight Training
+> 1. **How many days *can* you workout per week?**
+> 1. **How much money are you willing to spend per month?**
+
+## Let's Get Started
+
+
