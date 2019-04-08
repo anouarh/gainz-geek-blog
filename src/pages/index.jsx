@@ -27,7 +27,7 @@ const Index = ({ data }) => {
     <Layout>
       <Helmet title={'Gainz Geek Home Page'} />
       <Header>
-      <img src={banner} />
+      <img src={banner} alt="Gainz Geek"/>
       Your own fitness guide.</Header>
       <PostWrapper>
         {edges.map(({ node }) => (

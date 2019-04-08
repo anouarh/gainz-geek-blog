@@ -17,7 +17,7 @@ const Blog = ({ data }) => {
     <Layout>
       <Helmet title={'The Gainz Geek Blog Page'} />
       <Header>
-      <Banner><img src={banner} /></Banner>
+      <Banner><img src={banner} alt="The Gainz Geek Blog"/></Banner>
       </Header>
       {edges.map(({ node }) => (
         <BlogList
