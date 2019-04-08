@@ -18,7 +18,7 @@ const Blog = ({ data }) => {
       <Helmet title={'The Gainz Geek Blog Page'} />
       <Header>
       <Banner><img src={banner} /></Banner>
-      We help you understand fitness better with articles, tools and infographics.</Header>
+      </Header>
       {edges.map(({ node }) => (
         <BlogList
           key={node.id}
