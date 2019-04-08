@@ -5,6 +5,7 @@ import Helmet from 'react-helmet';
 import styled from '@emotion/styled';
 import { Header, PostList } from 'components';
 import { Layout } from 'layouts';
+import banner from '../../static/logo/banner-test.png';
 
 const PostWrapper = styled.div`
   display: flex;
@@ -24,8 +25,10 @@ const Index = ({ data }) => {
   const { edges } = data.allMarkdownRemark;
   return (
     <Layout>
-      <Helmet title={'Home Page'} />
-      <Header title="Gainz Geek">Your own fitness guide.</Header>
+      <Helmet title={'Gainz Geek Home Page'} />
+      <Header>
+      <img src={banner} />
+      Your own fitness guide.</Header>
       <PostWrapper>
         {edges.map(({ node }) => (
           <PostList

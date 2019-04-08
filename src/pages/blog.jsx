@@ -4,13 +4,21 @@ import Helmet from 'react-helmet';
 import PropTypes from 'prop-types';
 import { Header, BlogList } from 'components';
 import { Layout } from 'layouts';
+import styled from '@emotion/styled';
+import banner from '../../static/logo/banner-test-blog.png';
+
+const Banner = styled.div`
+  height: 50%;
+`;
 
 const Blog = ({ data }) => {
   const { edges } = data.allMarkdownRemark;
   return (
     <Layout>
-      <Helmet title={'Blog Page'} />
-      <Header title="The Gainz Geek Blog">We help you understand fitness better with articles, tools and infographics.</Header>
+      <Helmet title={'The Gainz Geek Blog Page'} />
+      <Header>
+      <Banner><img src={banner} /></Banner>
+      We help you understand fitness better with articles, tools and infographics.</Header>
       {edges.map(({ node }) => (
         <BlogList
           key={node.id}
