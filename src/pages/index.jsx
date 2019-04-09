@@ -25,7 +25,7 @@ const Index = ({ data }) => {
   const { edges } = data.allMarkdownRemark;
   return (
     <Layout>
-      <Helmet title={'Gainz Geek Home Page'} />
+      <Helmet title={'Home | Gainz Geek'} />
       <Header>
       <img src={banner} alt="Gainz Geek"/>
       Your own fitness guide.</Header>
