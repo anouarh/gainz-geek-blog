@@ -11,7 +11,7 @@ const Wrapper = styled.div`
     letter-spacing: -0.003em;
     --baseline-multiplier: 0.179;
     --x-height-multiplier: 0.35;
-    font-size: 1.7rem;
+    font-size: 1.3rem;
     font-family: 'PT Serif', serif;
     line-height: 2;
     code {

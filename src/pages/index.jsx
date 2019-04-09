@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 import Helmet from 'react-helmet';
 import styled from '@emotion/styled';
 import { Header, PostList } from 'components';
-import { Layout } from 'layouts';
+import { Layout, Container } from 'layouts';
 import banner from '../../static/logo/banner-test.png';
 
 const PostWrapper = styled.div`
@@ -21,14 +21,16 @@ const PostWrapper = styled.div`
   }
 `;
 
-const Index = ({ data }) => {
+const Index = ({ data, center }) => {
   const { edges } = data.allMarkdownRemark;
   return (
     <Layout>
       <Helmet title={'Home | Gainz Geek'} />
       <Header>
-      <img src={banner} alt="Gainz Geek"/>
-      Your own fitness guide.</Header>
+      <img src={banner} alt="Gainz Geek"/></Header>
+      <Container center={center}>
+        <p>Testing things out here</p>
+      </Container>
       <PostWrapper>
         {edges.map(({ node }) => (
           <PostList
@@ -66,6 +68,10 @@ Index.propTypes = {
       ),
     }),
   }),
+};
+
+Container.propTypes = {
+  center: PropTypes.object,
 };
 
 export const query = graphql`
