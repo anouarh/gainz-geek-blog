@@ -15,7 +15,7 @@ const Blog = ({ data }) => {
   const { edges } = data.allMarkdownRemark;
   return (
     <Layout>
-      <Helmet title={'The Gainz Geek Blog Page'} />
+      <Helmet title={'Blog | Gainz Geek'} />
       <Header>
       <Banner><img src={banner} alt="The Gainz Geek Blog"/></Banner>
       </Header>

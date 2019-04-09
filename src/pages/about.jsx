@@ -6,8 +6,8 @@ import { Layout, Container } from 'layouts';
 
 const About = center => (
   <Layout>
-    <Helmet title={'About Page'} />
-    <Header title="About Page"></Header>
+    <Helmet title={'About | Gainz Geek'} />
+    <Header title="About us"></Header>
     <Container center={center}>
     </Container>
   </Layout>
