@@ -1,5 +1,5 @@
 import React from 'react';
-import { graphql } from 'gatsby';
+import { graphql, Link } from 'gatsby';
 import PropTypes from 'prop-types';
 import Helmet from 'react-helmet';
 import styled from '@emotion/styled';
@@ -12,12 +12,12 @@ const PostWrapper = styled.div`
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-between;
-  margin: 4rem 4rem 1rem 4rem;
+  margin: 0rem 4rem 1rem 4rem;
   @media (max-width: 1000px) {
-    margin: 4rem 2rem 1rem 2rem;
+    margin: 0rem 2rem 1rem 2rem;
   }
   @media (max-width: 700px) {
-    margin: 4rem 1rem 1rem 1rem;
+    margin: 0rem 1rem 1rem 1rem;
   }
 `;
 
@@ -26,7 +26,21 @@ const Section1 = styled.div`
   box-shadow: ${props => props.theme.shadow.footer};
   color: white;
   text-align: center;
-  padding: 20px 20px 20px 20px;
+  padding: 2rem 2rem 2rem 2rem;
+  margin: 0rem 0rem 0rem 0rem;
+  height: 50vh;
+  line-height: 5;
+  a {
+    color: black;
+    box-shadow: 0.3em 0.3em 0 0 black, inset 0.3em 0.3em 0 0 black;
+    border: 2px solid;
+    padding: 15px 32px;
+    transition: all ${props => props.theme.transitions.default.duration};
+    &:hover {
+      color: #fff;
+      box-shadow: 0 0 0 0 #18121E, inset 6em 3.5em 0 0 #18121E;
+    }
+  }
 `;
 
 const Index = ({ data, center }) => {
@@ -37,8 +51,8 @@ const Index = ({ data, center }) => {
       <Header>
       <img src={banner} alt="Gainz Geek"/></Header>
       <Section1>
-          <h1>Do you need to start working out?</h1>
-          <p>Testing things</p>
+          <h1>Help choosing a workout?</h1>
+          <div><p><Link to="/"><b>PROGRAM PICKER</b></Link></p></div>
       </Section1>
       <Container center={center}>
       </Container>
