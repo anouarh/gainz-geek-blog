@@ -27,7 +27,7 @@ const Section1 = styled.div`
   color: white;
   text-align: center;
   padding: 2rem 2rem 2rem 2rem;
-  margin: 0rem 0rem 0rem 0rem;
+  margin: 0rem 0rem 2rem 0rem;
   height: 50vh;
   line-height: 5;
   a {
@@ -52,10 +52,10 @@ const Index = ({ data, center }) => {
       <img src={banner} alt="Gainz Geek"/></Header>
       <Section1>
           <h1>Help choosing a workout?</h1>
-          <div><p><Link to="/"><b>PROGRAM PICKER</b></Link></p></div>
+          <div><p><Link to="/workout-generator"><b>PROGRAM PICKER</b></Link></p></div>
       </Section1>
-      <Container center={center}>
-      </Container>
+      {/* add it here <Container center={center}>
+      </Container> */}
       <PostWrapper>
         {edges.map(({ node }) => (
           <PostList
