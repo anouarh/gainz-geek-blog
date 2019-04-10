@@ -86,7 +86,7 @@ const Title = styled.h1`
   margin: 0;
 `;
 
-const BlogList = ({ path, cover, title, date, excerpt, tags }) => (
+const BlogList = ({ path, cover, title, date, excerpt, tags, language }) => (
   <Container>
     <Wrapper>
       <Image>
@@ -115,4 +115,5 @@ BlogList.propTypes = {
   date: PropTypes.string.isRequired,
   title: PropTypes.string.isRequired,
   tags: PropTypes.array.isRequired,
+  language: PropTypes.string.isRequired,
 };

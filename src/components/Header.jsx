@@ -40,12 +40,13 @@ const Subtitle = styled.p`
   color: ${props => props.theme.colors.white.light};
 `;
 
-const Header = ({ children, title, date, cover }) => (
+const Header = ({ children, title, date, cover, language }) => (
   <Wrapper>
     <Img fluid={cover || {} || [] || ''} />
     <Text>
       <h1>{title}</h1>
       <h3>{date}</h3>
+      <h2>{language}</h2>
 
       {children && <Subtitle>{children}</Subtitle>}
     </Text>
@@ -58,6 +59,7 @@ Header.propTypes = {
   children: PropTypes.oneOfType([PropTypes.node, PropTypes.bool]),
   cover: PropTypes.oneOfType([PropTypes.object, PropTypes.bool]),
   date: PropTypes.oneOfType([PropTypes.string, PropTypes.bool]),
+  language: PropTypes.oneOfType([PropTypes.string, PropTypes.bool]),
   title: PropTypes.oneOfType([
     PropTypes.string,
     PropTypes.object,

@@ -26,6 +26,7 @@ const Post = ({ data, pageContext }) => {
   const title = post.frontmatter.title;
   const date = post.frontmatter.date;
   const html = post.html;
+  const language = post.frontmatter.language;
   return (
     <Layout>
       <SEO
@@ -33,9 +34,10 @@ const Post = ({ data, pageContext }) => {
         description={post.frontmatter.description || post.excerpt || ' '}
         image={image}
         pathname={post.frontmatter.path}
+        language={language}
         article
       />
-      <Header title={title} date={date} cover={image} />
+      <Header title={title} date={date} cover={image} language={language} />
       <Container>
         <Content input={html} />
         <TagsBlock list={post.frontmatter.tags || []} />
@@ -77,7 +79,8 @@ export const query = graphql`
     markdownRemark(frontmatter: { path: { eq: $pathSlug } }) {
       html
       frontmatter {
-        date
+        date(formatString: "MMMM Do, YYYY")
+        language
         title
         tags
         cover {
