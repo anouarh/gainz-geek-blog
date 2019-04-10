@@ -21,6 +21,14 @@ const PostWrapper = styled.div`
   }
 `;
 
+const Section1 = styled.div`
+  background-color: ${props => props.theme.colors.primary.red};
+  box-shadow: ${props => props.theme.shadow.footer};
+  color: white;
+  text-align: center;
+  padding: 20px 20px 20px 20px;
+`;
+
 const Index = ({ data, center }) => {
   const { edges } = data.allMarkdownRemark;
   return (
@@ -28,8 +36,11 @@ const Index = ({ data, center }) => {
       <Helmet title={'Home | Gainz Geek'} />
       <Header>
       <img src={banner} alt="Gainz Geek"/></Header>
+      <Section1>
+          <h1>Do you need to start working out?</h1>
+          <p>Testing things</p>
+      </Section1>
       <Container center={center}>
-        <p>Testing things out here</p>
       </Container>
       <PostWrapper>
         {edges.map(({ node }) => (
