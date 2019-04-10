@@ -28,6 +28,7 @@ const Blog = ({ data }) => {
           date={node.frontmatter.date}
           tags={node.frontmatter.tags}
           language={node.frontmatter.language}
+          timeToRead={node.timeToRead}
         />
       ))}
     </Layout>
@@ -50,6 +51,8 @@ Blog.propTypes = {
               date: PropTypes.string.isRequired,
               tags: PropTypes.array,
               language: PropTypes.string.isRequired,
+              timeToRead: PropTypes.string.isRequired,
+
             }),
           }),
         }).isRequired
@@ -65,6 +68,7 @@ export const query = graphql`
         node {
           id
           excerpt(pruneLength: 200)
+          timeToRead
           frontmatter {
             title
             path

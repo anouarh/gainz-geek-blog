@@ -4,7 +4,6 @@ import Img from 'gatsby-image';
 import PropTypes from 'prop-types';
 
 const Wrapper = styled.header`
-
   background: ${props => props.theme.gradient.rightToLeft};
   height: 300px;
   @media (max-width: ${props => props.theme.breakpoints.m}) {
@@ -40,14 +39,12 @@ const Subtitle = styled.p`
   color: ${props => props.theme.colors.white.light};
 `;
 
-const Header = ({ children, title, date, cover, language }) => (
+const Header = ({ children, title, date, cover, language, timeToRead }) => (
   <Wrapper>
     <Img fluid={cover || {} || [] || ''} />
     <Text>
       <h1>{title}</h1>
       <h3>{date}</h3>
-      <h2>{language}</h2>
-
       {children && <Subtitle>{children}</Subtitle>}
     </Text>
   </Wrapper>
@@ -60,6 +57,7 @@ Header.propTypes = {
   cover: PropTypes.oneOfType([PropTypes.object, PropTypes.bool]),
   date: PropTypes.oneOfType([PropTypes.string, PropTypes.bool]),
   language: PropTypes.oneOfType([PropTypes.string, PropTypes.bool]),
+  timeToRead: PropTypes.oneOfType([PropTypes.string, PropTypes.bool]),
   title: PropTypes.oneOfType([
     PropTypes.string,
     PropTypes.object,

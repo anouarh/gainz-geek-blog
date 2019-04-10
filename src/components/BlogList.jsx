@@ -86,7 +86,11 @@ const Title = styled.h1`
   margin: 0;
 `;
 
-const BlogList = ({ path, cover, title, date, excerpt, tags, language }) => (
+const OtherData = styled.div`
+  font-size: 1.25rem;
+`;
+
+const BlogList = ({ path, cover, title, date, excerpt, tags, language, timeToRead }) => (
   <Container>
     <Wrapper>
       <Image>
@@ -99,8 +103,8 @@ const BlogList = ({ path, cover, title, date, excerpt, tags, language }) => (
         <Link to={path}>
           <Title>{title}</Title>
         </Link>
+        <OtherData><strong>{timeToRead} minute</strong> read in <strong><em>{language}</em></strong></OtherData>
         <TagsBlock list={tags} />
-        {excerpt}
       </Information>
     </Wrapper>
   </Container>
@@ -116,4 +120,5 @@ BlogList.propTypes = {
   title: PropTypes.string.isRequired,
   tags: PropTypes.array.isRequired,
   language: PropTypes.string.isRequired,
+  timeToRead: PropTypes.string.isRequired
 };

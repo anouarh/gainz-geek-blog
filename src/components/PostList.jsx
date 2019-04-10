@@ -103,6 +103,8 @@ const Info = styled.div`
 
 const Title = styled.h2`
   margin-bottom: 0.6rem;
+  font-family: 'PT Sans', sans-serif;
+  font-weight: bold;
 `;
 
 const PostList = ({ cover, path, date, title, excerpt }) => (
