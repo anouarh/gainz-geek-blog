@@ -22,9 +22,7 @@ const PostWrapper = styled.div`
 `;
 
 const Section1 = styled.div`
-  background-color: ${props => props.theme.colors.primary.red};
-  box-shadow: ${props => props.theme.shadow.footer};
-  color: white;
+  color: black;
   text-align: center;
   padding: 2rem 2rem 2rem 2rem;
   margin: 0rem 0rem 2rem 0rem;
