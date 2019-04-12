@@ -16,6 +16,7 @@ published: true
 - Leucine is the most beneficial of the three BCAAs, so when buying **find the product with a decent amount of Leucine**.
 - BCAAs help when on a weight training (*resistance*) and/or fat loss program.
 
+<br>
 
 ## What are BCAAs?
 
@@ -30,6 +31,8 @@ Branched-chain amino acids (BCAAs) are among the **essential** amino acids for h
 They are considered essential because **your body cannot make them** and you must **get them from your diet**.
 
 They help in **muscle growth and recovery**. Since most protein sources are rich in them, it's usually unnecessary to supplement them. However, they are often taken with the goal of **boosting muscle growth and enhancing exercise performance** during weight training.
+
+<br>
 
 ## When and How to use BCAAs?
 
@@ -52,6 +55,8 @@ Drinking BCAA's after your workout will help with the process of rebuilding musc
 
 If you're working out fasted (say, no solid meals in the 16 hours, either for intermittent fasting or some other reason), BCAAs can play the role of *real* protein for a while.
 
+<br>
+
 ## Do BCAAs help you lose weight? And do they work?
 
 ![Man's stomach being measured](guy-fat-loss.png)
@@ -64,6 +69,8 @@ The study concluded that **ingesting BCAAs while on a weight training program re
 ### Helping in rebuilding muscle tissue after a training session
 
 Another [study](https://www.ncbi.nlm.nih.gov/pubmed/22569039) by *The School of Life Sciences at Northumbria University* conducted on "12 males" concluded that taking BCAAs before and after workouts **reduces muscle damage and increases recovery speed**.
+
+<br>
 
 ## How much BCAA should I take to lose weight?
 
@@ -87,6 +94,8 @@ So how much BCAAs should you take? It depends on your level of activity:
 Generally speaking, women do not need as much BCAAs as men in order to achieve a fitness goal. <br>
 However, it is generally believed that women only need between **5g-10g of BCAAs per day** (that translates to 1 to 2 servings), whereas men might consume between 10g-20g per day. (It of course heavily depends on the factors mentioned above).
 
+<br>
+
 ## What are the side effects of BCAAs? Are they safe?
 
 ![Man lifting a wheel in gym](guy-lifting-wheel.png)
@@ -107,6 +116,8 @@ Taking **too much** BCAAs may cause fatigue, nausea, headaches and might in some
   - Heart Disease
   - Lou Gehrig's Disease (ALS)
 
+<br>
+
 ## How to buy BCAAs?
 
 ![Bcaa products](bcaa-products.png)
@@ -121,6 +132,8 @@ Taking **too much** BCAAs may cause fatigue, nausea, headaches and might in some
 
 1. **Price, obviously:** <br>
     Choose a product according to your budget, however, be picky and know what you get into your system (Cheap might be cheap for your body as well).
+
+<br>
 
 ## References
 
