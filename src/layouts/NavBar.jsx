@@ -13,7 +13,7 @@ const StyledLink = styled(Link)`
 const Nav = styled.nav`
   display: flex;
   justify-content: flex-end;
-  font-family: ${props => props.theme.fontFamily.body};
+  font-family: 'Lato', sans-serif;
   font-weight: 500;
   font-size: 1.1rem;
   align-items: center;

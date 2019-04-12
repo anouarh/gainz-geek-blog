@@ -57,7 +57,9 @@ const Image = styled.div`
 `;
 
 const Information = styled.div`
+  font-family: 'PT-Sans', sans-serif;
   h1 {
+    font-weight: bold;
     font-size: 2rem;
     display: inline-block;
     color: ${props => props.theme.colors.black.base};
