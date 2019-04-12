@@ -3,7 +3,7 @@ path: "/how-to-start-working-out"
 cover: "../2019-03-31/barbell.jpg"
 date: "2019-03-31"
 language: "English"
-title: "The Complete Guide: How to Start Working Out | Gainz Geek [2019]"
+title: "The Complete Guide: How to Start Working Out [2019]"
 tags: ['Guide', 'Workout']
 published: true
 ---

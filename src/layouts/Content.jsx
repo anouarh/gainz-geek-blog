@@ -45,23 +45,23 @@ const Wrapper = styled.div`
   }
   h1 {
     margin-top: 3rem;
-    font-size: 3.5rem;
+    font-size: 3rem;
   }
   h2 {
     margin-top: 1rem;
-    font-size: 2.825rem;
+    font-size: 2.5rem;
   }
   h3 {
-    font-size: 2.3rem;
+    font-size: 2rem;
   }
   h4 {
-    font-size: 1.8rem;
+    font-size: 1.5rem;
   }
   h5 {
-    font-size: 1.65rem;
+    font-size: 1.4rem;
   }
   h6 {
-    font-size: 1.55rem;
+    font-size: 1.3rem;
   }
   h1,
   h2,
