@@ -61,5 +61,22 @@ module.exports = {
       },
     },
     'gatsby-plugin-offline',
+    {
+    resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-138297148-1",
+        // Puts tracking script in the head instead of the body
+        head: false,
+        // Setting this parameter is optional
+        anonymize: true,
+        // Setting this parameter is also optional
+        respectDNT: true,
+        // Avoids sending pageview hits from custom paths
+        exclude: ["/preview/**", "/do-not-track/me/too/"],
+        sampleRate: 5,
+        siteSpeedSampleRate: 10,
+        cookieDomain: "gainzgeek.com",
+      },
+    },
   ],
 };
