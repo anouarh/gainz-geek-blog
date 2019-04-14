@@ -81,13 +81,13 @@ Just like regulating your protein intake, BCAAs are basically the same. Adding m
 
 ### BCAA dosage and losing weight
 
-**One or two servings** are the general recommended dosage for losing weight. However, if you're doing faster workouts, It is advised to add in another serving (*So 2 for standard exercices, 3 for fasted*).
+**One or two servings** are the general recommended dosage for losing weight. However, if you're doing fasted workouts, It is advised to add in another serving (*So 2 for standard exercices, 3 for fasted*).
 
 ### BCAA dosage and how active you are
 
 So how much BCAAs should you take? It depends on your level of activity:
 - **For relatively active people** (*2-3 weight training sessions per week*): One serving before and a second one after your workout is usually enough.
-- **For very active people** (*+3 days per week*): Add in another serving right after bed to help with muscle recovery.
+- **For very active people** (*+3 days per week*): Add in another serving right before bed to help with muscle recovery.
 - **For the extremely active** *(~6 days per week*): The suggested number is generally 4, provided you spread those servings throughout the day.
 
 ### BCAA dosage and your gender, How much BCAAs for women?
@@ -147,5 +147,5 @@ https://www.ncbi.nlm.nih.gov/pubmed/15173434
 https://ronniecoleman.net/blogs/articles/beginners-guide-to-bcaas
 https://ironjunkies.com/bcaa-dosage
 https://blog.blenderbottle.com/all-about-bcaas-bcaa-benefits-uses-and-side-effects
-http://blog.imprettyfit.com/supplements/bcaa-supplements-for-fat-loss/
+http://blog.imprettyfit.com/supplements/bcaa-supplements-for-fat-loss/ <br>
 https://athleticmuscle.net/best-bcaas-for-men/
