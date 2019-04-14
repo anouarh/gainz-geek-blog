@@ -5,6 +5,7 @@ import PropTypes from 'prop-types';
 import { Layout, Container, Content } from 'layouts';
 import { TagsBlock, Header, SEO } from 'components';
 import '../styles/prism';
+import { FaRegClock, FaPen } from 'react-icons/fa';
 
 const SuggestionBar = styled.div`
   display: flex;
@@ -19,6 +20,9 @@ const PostSuggestion = styled.div`
   margin: 1rem 3rem 0 3rem;
 `;
 
+const PostInfo = styled.div`
+`;
+
 const Post = ({ data, pageContext }) => {
   const { next, prev } = pageContext;
   const post = data.markdownRemark;
@@ -27,6 +31,8 @@ const Post = ({ data, pageContext }) => {
   const date = post.frontmatter.date;
   const html = post.html;
   const language = post.frontmatter.language;
+  const timeToRead = post.timeToRead;
+  const author = post.frontmatter.author;
   return (
     <Layout>
       <SEO
@@ -37,8 +43,9 @@ const Post = ({ data, pageContext }) => {
         language={language}
         article
       />
-      <Header title={title} date={date} cover={image} language={language} />
+      <Header title={title} cover={image} language={language} />
       <Container>
+      <PostInfo><h4><FaRegClock/> {timeToRead} minute read</h4> <h5>{author} ▪ {date}</h5></PostInfo>
         <Content input={html} />
         <TagsBlock list={post.frontmatter.tags || []} />
       </Container>
@@ -78,9 +85,11 @@ export const query = graphql`
   query($pathSlug: String!) {
     markdownRemark(frontmatter: { path: { eq: $pathSlug } }) {
       html
+      timeToRead
       frontmatter {
         date(formatString: "MMMM Do, YYYY")
         language
+        author
         title
         tags
         cover {

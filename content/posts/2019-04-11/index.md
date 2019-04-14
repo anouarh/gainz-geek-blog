@@ -3,7 +3,8 @@ path: "/bcaa-for-weight-loss"
 cover: "../2019-04-11/bcaa.jpg"
 date: "2019-04-11"
 language: "English"
-title: "BCAA for Weight Loss [GUIDE] | Gainz Geek [2019]"
+author: "Anouar H."
+title: "BCAA for Weight Loss - What you need to know about? | Gainz Geek (2019)"
 tags: ['Guide', 'Supplement']
 published: true
 ---
