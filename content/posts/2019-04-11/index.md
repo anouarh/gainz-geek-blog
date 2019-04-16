@@ -1,15 +1,17 @@
 ---
-path: "/bcaa-for-weight-loss"
-cover: "../2019-04-11/bcaa.jpg"
+path: "/bcaa-supplements"
+cover: "../2019-04-11/bcaa-supplements-cover.png"
 date: "2019-04-11"
 language: "English"
 author: "Anouar H."
-title: "BCAA for Weight Loss - What you need to know about? | Gainz Geek (2019)"
-tags: ['Guide', 'Supplement']
+title: "BCAA Supplements: What you need to know about? | Gainz Geek (2019)"
+tags: ['Guide', 'BCAA', 'Supplement']
 published: true
 ---
 
-# BCAA for Weight Loss for Men and Women
+![Bcaa supplements cover illustration](bcaa-supplements-cover.png "Bcaa supplements cover illustration")
+
+# BCAA Supplements: What you need to know about?
 
 ## What you need to know about BCAAs
 
@@ -150,7 +152,7 @@ Taking **too much** BCAAs may cause fatigue, nausea, headaches and might in some
 
 <br>
 
-## How to buy BCAAs?
+## Which BCAA to buy?
 
 ![Bcaa products](bcaa-products.png)
 
@@ -169,14 +171,14 @@ Taking **too much** BCAAs may cause fatigue, nausea, headaches and might in some
 
 ## References
 
-https://en.wikipedia.org/wiki/Branched-chain_amino_acid
+https://en.wikipedia.org/wiki/Branched-chain_amino_acid <br>
 https://www.reddit.com/r/Fitness/comments/29okyo/can_anyone_help_me_understand_the_need_for_bcaas/ <br>
-https://www.healthline.com/nutrition/bcaa
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3313152/
-https://www.ncbi.nlm.nih.gov/pubmed/22569039
-https://www.ncbi.nlm.nih.gov/pubmed/15173434
-https://ronniecoleman.net/blogs/articles/beginners-guide-to-bcaas
-https://ironjunkies.com/bcaa-dosage
+https://www.healthline.com/nutrition/bcaa <br>
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3313152/ <br>
+https://www.ncbi.nlm.nih.gov/pubmed/22569039 <br>
+https://www.ncbi.nlm.nih.gov/pubmed/15173434 <br>
+https://ronniecoleman.net/blogs/articles/beginners-guide-to-bcaas <br>
+https://ironjunkies.com/bcaa-dosage <br>
 https://blog.blenderbottle.com/all-about-bcaas-bcaa-benefits-uses-and-side-effects <br>
 http://blog.imprettyfit.com/supplements/bcaa-supplements-for-fat-loss/ <br>
 https://athleticmuscle.net/best-bcaas-for-men/

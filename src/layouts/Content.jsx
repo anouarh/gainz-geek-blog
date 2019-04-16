@@ -21,6 +21,7 @@ const Wrapper = styled.div`
   }
   img {
     border: 1px black solid;
+    box-shadow: ${props => props.theme.shadow.footer};
   }
   table {
   display: block;
