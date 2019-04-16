@@ -9,7 +9,7 @@ tags: ['Guide', 'BCAA', 'Supplement']
 published: true
 ---
 
-![Bcaa supplements cover illustration](bcaa-supplements-cover.png "Bcaa supplements cover illustration")
+![Bcaa supplements cover illustration](bcaa-supplements-cover.png "Bcaa supplements illustration")
 
 # BCAA Supplements: What you need to know about?
 
