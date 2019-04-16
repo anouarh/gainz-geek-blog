@@ -9,7 +9,7 @@ tags: ['Guide', 'Supplement']
 published: true
 ---
 
-# BCAA for Weight Loss - Do BCAAs help you lose weight and gain muscle mass?
+# BCAA for Weight Loss for Men and Women
 
 ## What you need to know about BCAAs
 
@@ -19,9 +19,14 @@ published: true
 
 <br>
 
-## What are BCAAs?
+## What are BCAAs? 
 
-![Chemical Representation of BCAAs](bcaas.png)
+![Chemical Representation of BCAAs](bcaas.png "Chemical Representation of BCAAs")
+
+>### Short Answer
+>**Supplements that help you build muscle and lose fat when on a weight training program.**
+
+### Long Answer
 
 Branched-chain amino acids (BCAAs) are among the **essential** amino acids for humans, they are:
  - Valine, 
@@ -35,39 +40,51 @@ They help in **muscle growth and recovery**. Since most protein sources are rich
 
 <br>
 
-## When and How to use BCAAs?
+## Do I take BCAA supplements before or after a workout?
 
-![Man drinking shake in the gym](guy-drinking-shake.png)
+![Man drinking shake in the gym](guy-drinking-shake.png "Man drinking shake in the gym")
+
+>### Short Answer
+>**There is no apparent difference between taking them before or after, it's basically the same.**
+
+### Long Answer
 
 Generally speaking the benefits of BCAAs are apparent whenever you take them (after, before or during your workout) as mentioned in this [study](https://www.ncbi.nlm.nih.gov/pubmed/15173434) by *The Department of Materials* Science and Engineering at Nagoya Institute of Technology in Japan. <br> 
 The study concluded that "**BCAA supplementation before and after exercise has beneficial effects** for decreasing exercise-induced muscle damage and promoting muscle-protein synthesis; this suggests the possibility that BCAAs are a useful supplement in relation to exercise and sports".
 
-### Taking BCAAs before or during a workout
+#### Taking BCAAs before or during a workout
 
 Drinking BCAAs (which is the **easiest way** to get them in, in interesting quantities) a little while before or during your workout will give you a bit of a buffer against catabolism (in other words **breaking down protein molecules**). 
 
 They might help with your energy levels during your training session, but that generally depends on which product you're buying.
 
-### Taking BCAAs after a workout
+#### Taking BCAAs after a workout
 
 Drinking BCAA's after your workout will help with the process of rebuilding muscle tissue and gaining muscle mass.
 
-### Taking BCAAs fasted
+#### Taking BCAAs fasted
 
 If you're working out fasted (say, no solid meals in the 16 hours, either for intermittent fasting or some other reason), BCAAs can play the role of *real* protein for a while.
 
 <br>
 
-## Do BCAAs help you lose weight? And do they work?
+## Are BCAA supplements good for fat loss?
 
-![Man's stomach being measured](guy-fat-loss.png)
+![Man's stomach being measured](guy-fat-loss.png "Man's stomach being measured")
 
-### Fat Loss and Muscle Gain
+>### Short Answer
+>**Yes. And there's a [study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3313152/) about it.**
+
+### Long Answer
+
+<br>
+
+#### Fat Loss and Muscle Gain
 
 Branched-chain amino acids may aid in losing weight, as concluded in a [study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3313152/) conducted by the *Weider Research Group* on "Thirty-six strength-trained males with a minimum of two years resistance-training experience". <br>
 The study concluded that **ingesting BCAAs while on a weight training program resulted in a great decrease in percent body fat** and "an increase in lean mass, and strength gains on the bench press and squat" in comparison to the *"ingestion of a whey supplement or a sports drink".
 
-### Helping in rebuilding muscle tissue after a training session
+#### Helping in rebuilding muscle tissue after a training session
 
 Another [study](https://www.ncbi.nlm.nih.gov/pubmed/22569039) by *The School of Life Sciences at Northumbria University* conducted on "12 males" concluded that taking BCAAs before and after workouts **reduces muscle damage and increases recovery speed**.
 
@@ -77,37 +94,51 @@ Another [study](https://www.ncbi.nlm.nih.gov/pubmed/22569039) by *The School of 
 
 ![BCAA Scoop](bcaa-scoop.png)
 
+>### Short Answer
+>| Level of Activity (workout/week)| Men  (max: ~20g/day) | Women (max: ~10g/day) |
+| :------------------- | -------------------: |:---------------:|
+| Fairly active (1-3/week)| 1 or 2 servings      | 1 or 2 servings |
+| Very active (3-4/week)         | 3 servings           |  2 servings     |
+| Extremely active (+4/week)    | 4 servings           | 2 servings      |
+
+### Long Answer
+
 Just like regulating your protein intake, BCAAs are basically the same. Adding more is not necessarily much better and sometimes they're not helpful at all. BCAA dosage heavily depends on your gender and how active you are.
 
-### BCAA dosage and losing weight
+#### BCAA dosage and losing weight
 
 **One or two servings** are the general recommended dosage for losing weight. However, if you're doing fasted workouts, It is advised to add in another serving (*So 2 for standard exercices, 3 for fasted*).
 
-### BCAA dosage and how active you are
+#### BCAA dosage and how active you are
 
 So how much BCAAs should you take? It depends on your level of activity:
 - **For relatively active people** (*2-3 weight training sessions per week*): One serving before and a second one after your workout is usually enough.
-- **For very active people** (*+3 days per week*): Add in another serving right before bed to help with muscle recovery.
-- **For the extremely active** *(~6 days per week*): The suggested number is generally 4, provided you spread those servings throughout the day.
+- **For very active people** (*3-4 days per week*): Add in another serving right before bed to help with muscle recovery.
+- **For the extremely active** *(+4 days per week*): The suggested number is generally 4, provided you spread those servings throughout the day.
 
-### BCAA dosage and your gender, How much BCAAs for women?
+#### BCAA dosage and your gender, How much BCAAs for women?
 
 Generally speaking, women do not need as much BCAAs as men in order to achieve a fitness goal. <br>
 However, it is generally believed that women only need between **5g-10g of BCAAs per day** (that translates to 1 to 2 servings), whereas men might consume between 10g-20g per day. (It of course heavily depends on the factors mentioned above).
 
 <br>
 
-## What are the side effects of BCAAs? Are they safe?
+## What are the side effects of BCAAs?
 
 ![Man lifting a wheel in gym](guy-lifting-wheel.png)
 
+>### Short Answer
+>**None, unless you use way too much (as with everything) then some health problems might arise.**
+
+### Long Answer
+
 Most expert nutritionists suggest that daily consumption of BCAAs is safe, provided not in excess quantities (**More than ~20g per day**).
 
-### Side effects of too much BCAAs
+#### Side effects of too much BCAAs
 
 Taking **too much** BCAAs may cause fatigue, nausea, headaches and might in some cases cause increased insulin resistance (which may cause Type 2 Diabetes).
 
-### When NOT to take BCAAs?
+#### When NOT to take BCAAs?
 
 - If you drink **too much** alcohol
 - If you're having surgery because they affect blood sugar levels.
