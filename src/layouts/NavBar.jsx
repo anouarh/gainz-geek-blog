@@ -32,10 +32,10 @@ const NavBar = () => (
     <StyledLink to="/">
     </StyledLink>
     <Nav>
-      <Link to="/">Home</Link>
+      <Link to="/">Accueil</Link>
       <Link to="/blog">Blog</Link>
-      <Link to="/about">About</Link>
-      <Link to="/contact">Contact</Link>
+      <Link to="/a-propos">À propos de nous</Link>
+      <Link to="/contactez-nous">Contactez-nous</Link>
     </Nav>
   </Headroom>
 );

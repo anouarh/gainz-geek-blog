@@ -45,12 +45,12 @@ const Index = ({ data, center }) => {
   const { edges } = data.allMarkdownRemark;
   return (
     <Layout>
-      <Helmet title={'Home | Gainz Geek'} />
+      <Helmet title={'Accueil | Gainz Geek'} />
       <Header>
       <img src={banner} alt="Gainz Geek"/></Header>
       <Section1>
-          <h1>Help choosing a workout?</h1>
-          <div><p><Link to="/workout-generator"><b>PROGRAM PICKER</b></Link></p></div>
+          <h1>Tu as besoin d'un programme de musculation?</h1>
+          <div><p><Link to="/generateur-de-programme"><b>Générer un programme</b></Link></p></div>
       </Section1>
       {/* add it here <Container center={center}>
       </Container> */}
