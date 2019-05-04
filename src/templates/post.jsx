@@ -45,7 +45,7 @@ const Post = ({ data, pageContext }) => {
       />
       <Header title={title} cover={image} language={language} />
       <Container>
-      <PostInfo><h4><FaRegClock/> {timeToRead} minute read</h4> <h5>{author} ▪ {date}</h5></PostInfo>
+      <PostInfo><h4><FaRegClock/> {timeToRead} minute(s) pour lire </h4> <h5>{author} ▪ {date}</h5></PostInfo>
         <Content input={html} />
         <TagsBlock list={post.frontmatter.tags || []} />
       </Container>
@@ -87,7 +87,7 @@ export const query = graphql`
       html
       timeToRead
       frontmatter {
-        date(formatString: "MMMM Do, YYYY")
+        date
         language
         author
         title

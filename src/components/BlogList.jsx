@@ -105,7 +105,7 @@ const BlogList = ({ path, cover, title, date, excerpt, tags, language, timeToRea
         <Link to={path}>
           <Title>{title}</Title>
         </Link>
-        <OtherData><strong>{timeToRead} minute</strong> read in <strong><em>{language}</em></strong></OtherData>
+        <OtherData><strong>{timeToRead} minute(s) de lecture</strong></OtherData>
         <TagsBlock list={tags} />
       </Information>
     </Wrapper>
