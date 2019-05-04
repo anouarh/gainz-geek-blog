@@ -50,7 +50,7 @@ const Index = ({ data, center }) => {
       <img src={banner} alt="Gainz Geek"/></Header>
       <Section1>
           <h1>Tu as besoin d'un programme de musculation?</h1>
-          <div><p><Link to="/generateur-de-programme"><b>Générer un programme</b></Link></p></div>
+          <div><p><Link to="/generateur-de-programme-de-musculation"><b>Générer un programme</b></Link></p></div>
       </Section1>
       {/* add it here <Container center={center}>
       </Container> */}
@@ -111,7 +111,7 @@ export const query = graphql`
             title
             path
             tags
-            date(formatString: "MMMM Do, YYYY")
+            date
             cover {
               childImageSharp {
                 fluid(
